@@ -1,4 +1,7 @@
 ### Hi there 👋
+__Name__ : 홍석찬
+__Study at__ : CSEE at HGU(20)
+
 
 <!--
 **redstonecold/redstonecold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
