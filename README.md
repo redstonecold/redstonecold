@@ -13,7 +13,7 @@ __Study at__ : CSEE at HGU(20)
 
 ### 수상 내역
 
-2021.09 - [한동대학교 SW교육동영상 공모전](https://www.youtube.com/playlist?list=PLVIityKQhEeRZM1908FayAbHJWcg8BEG6) 최우수상
+2021.09 - [한동대학교 SW교육동영상 공모전](https://www.youtube.com/playlist?list=PLVIityKQhEeRZM1908FayAbHJWcg8BEG6) 최우수상     
 2020.11 - 한동대학교 SW페스티벌 1학년 자작소프트웨어 공모전 부문 대상      
 2020.11 - 한동대학교 SW페스티벌 문제해결 아이디어 공모전 부문 최우수상
 
