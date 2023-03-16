@@ -6,6 +6,7 @@ __Study at__ : CSEE at HGU(20)
 
 
 ### 활동 내역
+2022.06 - [X-ray 영상에서 VHS 자동 추출을 위한 딥러닝 기법] (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113882#)
 2022.01 ~ - 한동대학교 Image Processing & 지능형 시스템 S-Lab   
 2021.11.10 - 한동대학교 동승 어플 "[HUT]"(https://hut.handong.us) 런칭   
 2021.10 ~ - 한동대학교 메타버스 연구 학회 Tri-M   
